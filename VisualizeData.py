@@ -177,5 +177,5 @@ def bar_child_marriages(current_countries):
     plt.legend([i.country_name for i in current_countries])
     plt.show()
 
-
+## You can change the country names in here and it will graph you all the data between these countries.
 visualize(["Honduras", "Ghana", "Uganda"])
