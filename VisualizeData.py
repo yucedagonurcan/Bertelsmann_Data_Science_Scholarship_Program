@@ -28,8 +28,8 @@ def visualize(country_names):
 def plot_by_time(current_countries, feature_name):
     """
     Plotting the features that is represented as time by time.
-    :param current_countries:
-    :param feature_name:
+    :param1 current_countries:
+    :param2 feature_name:
     """
     if feature_name == "poverty":
 
